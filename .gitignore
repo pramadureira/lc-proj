@@ -1,0 +1,4 @@
+personal/
+*.o
+*.txt
+!proj/src/game/word_list.txt

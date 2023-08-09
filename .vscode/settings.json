@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+      "stdint.h": "c",
+      "lab2.h": "c",
+      "utils.h": "c",
+      "lab3.h": "c",
+      "keybord.h": "c",
+      "timer.h": "c",
+      "macro.h": "c",
+      "lcf.h": "c",
+      "state.h": "c",
+      "UTILS.H": "cpp",
+      "ios": "c",
+      "int86.h": "c",
+      "memory": "c",
+      "utility": "c",
+      "macro_video.h": "c",
+      "*.xpm": "c",
+      "macro_kb_mouse.h": "c",
+      "locale": "c",
+      "string": "c",
+      "__locale": "c",
+      "atomic": "c",
+      "limits": "c",
+      "type_traits": "c",
+      "cursor.h": "c",
+      "video_gr.h": "c",
+      "getters.h": "c",
+      "rtc.h": "c",
+      "macro_timer.h": "c"
+    }
+}
